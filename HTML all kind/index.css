@@ -1,0 +1,13 @@
+*{
+    background:url(bomblebee.png);
+    justify-content: center;
+    background-color: rgb(208, 183, 183);
+}
+.t
+{
+    color:rgb(247, 243, 243);
+}
+.f
+{
+    color: rgb(0, 200, 255);
+}
